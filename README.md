@@ -1,4 +1,4 @@
-RPG Panel – Projet RPG en Java Swing
+**RPG Panel – Projet RPG en Java Swing**
 
 Ce projet est un mini-jeu RPG développé en Java avec une interface graphique Swing.
 Il permet au joueur de :
@@ -9,3 +9,6 @@ Explorer une carte générée aléatoirement
 Affronter des monstres
 Détruire des obstacles
 Atteindre la sortie pour terminer la partie
+
+
+
